@@ -4,7 +4,7 @@ Spiritual Technology
 
 Here's an idea of what this project is designed to get programmed with hopefully some assistance. 
 
-[img]https://spiritualtecblog.files.wordpress.com/2018/03/imagelayout.png[/img]
+image:: https://spiritualtecblog.files.wordpress.com/2018/03/imagelayout.png
 
 Requirements & Steps: Text To Decimal. 
 Ability to Ping a local router and or A websites IP address Etc.
