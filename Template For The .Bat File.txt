@@ -1,0 +1,4 @@
+// The ** = Decimal Number.
+// Ping 127.0.0.1 to ping your own computer
+
+ping -n 1 -l ** Spiritualtec.com
